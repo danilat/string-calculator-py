@@ -1,4 +1,4 @@
-# Skeleton for fizzbuzz kata in python
+# Skeleton for string calculator kata in python
 
 It uses the library [pytest](https://docs.pytest.org/en/stable/), the dependency is described in the Pipfile.
 
@@ -14,7 +14,7 @@ To run the test suite:
 
 Create a simple String calculator with a method signature:
 
-    int Add(string numbers)
+    def add(numbers):
 
 The method can take up to two numbers, separated by commas, and will return their sum.
 
