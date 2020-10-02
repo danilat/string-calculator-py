@@ -1,0 +1,2 @@
+class KataError(Exception):
+    pass
